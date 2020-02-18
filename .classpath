@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Microsoft JDBC Driver 6.0 for SQL Server/sqljdbc_6.0/chs/jre8/sqljdbc42.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/SSTS"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ssts"/>
+	<classpathentry kind="lib" path="jgoodies-common-1.8.0.jar" sourcepath="jgoodies-common-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/SSTS/jgoodies-common-1.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/SSTS/jgoodies-common-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/SSTS/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/SSTS/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
